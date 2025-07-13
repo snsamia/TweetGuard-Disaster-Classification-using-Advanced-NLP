@@ -1,4 +1,5 @@
 # TweetGuard: Disaster Classification using Advanced NLP
+![TweetGuard Disaster Classification](https://github.com/snsamia/TweetGuard-Disaster-Classification-using-Advanced-NLP/raw/main/image.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
