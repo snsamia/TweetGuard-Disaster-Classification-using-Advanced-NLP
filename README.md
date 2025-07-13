@@ -13,7 +13,6 @@
 - [Project Motivation](#project-motivation)
 - [Business Impact & Applications](#business-impact--applications)
 - [Technical Achievements](#technical-achievements)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Results & Visualization](#results--visualization)
 - [Future Enhancements](#future-enhancements)
@@ -73,20 +72,6 @@ Disasters unfold rapidly, and timely information is critical for minimizing harm
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.7 or later
-- Jupyter Notebook or JupyterLab
-- Required Python libraries (see below)
-
-
-**Download the dataset:**
-    - [Kaggle NLP with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)
-    - Place the downloaded CSV files (`train.csv`, `test.csv`) in the project directory.
----
-
 ## Results & Visualization
 
 - **Performance comparison** of traditional ML models and transformer models.
@@ -139,7 +124,6 @@ See [LICENSE](LICENSE) for details.
 ## Acknowledgements
 
 - [Kaggle - NLP with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started)
-- Hugging Face Transformers
 - scikit-learn, NLTK, spaCy, Gensim
 
 ---
