@@ -58,7 +58,7 @@ Disasters unfold rapidly, and timely information is critical for minimizing harm
 
 **🛠️ Technical Achievements**
 
-- Multi-algorithm comparison (Logistic Regression, SVM, Random Forest, XGBoost, etc.)
+- Multi-algorithm comparison (Logistic Regression, SVM, Random Forest, Naive Bayes, Gradient Boosting.)
 - Advanced NLP preprocessing pipeline (cleaning, tokenization, stemming/lemmatization)
 - State-of-the-art transformer models (BERT, BART)
 - Comprehensive feature engineering
